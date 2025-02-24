@@ -1,6 +1,6 @@
 # CodeJoy.
 
-This project is an Arduino-based game platform that lets you play two interactive games on a single board:
+This project is an Arduino-based game platform that by default, lets you play two interactive games on a single board:
 - **Memory Game:** A Simon Says–style game where you repeat an LED sequence.
 - **Reaction Game:** A game for two players who race to press their button as soon as an LED lights up. Rounds are repeated if the reaction time is less than 50 ms (to prevent button spamming).
 
